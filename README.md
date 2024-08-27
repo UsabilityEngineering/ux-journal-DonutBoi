@@ -1,7 +1,6 @@
 # UX Portfolio
 
-About me...
-
+My name is XiLin(Tommy) Luo, just call me Tommy
 ## UX Team Project
 
 Coming soon.
